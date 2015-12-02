@@ -32,3 +32,5 @@
 ## Extra Credit 
 
   * This lab lends itself to some messy code if you don't put a lot of thought into the software design. How clean can you make the code? Remember each method should be short. Minimal copy-paste. Descriptive Names.
+
+<a href='https://learn.co/lessons/validated-signup' data-visibility='hidden'>View this lesson on Learn.co</a>
