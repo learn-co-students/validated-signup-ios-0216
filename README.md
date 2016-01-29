@@ -33,4 +33,4 @@
 
   * This lab lends itself to some messy code if you don't put a lot of thought into the software design. How clean can you make the code? Remember each method should be short. Minimal copy-paste. Descriptive Names.
 
-<a href='https://learn.co/lessons/validated-signup' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/validated-signup' title='Validated Sign Up'>Validated Sign Up</a> on Learn.co and start learning to code for free.</p>
